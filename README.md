@@ -14,3 +14,7 @@ A simple travel tracker which makes note of the countries visited in a world map
 2. Import the countries.csv file into countries table.
 3. Then change the password field in the index.js which you set in the PostgreSQL account.
 4.  Run node index.js which runs the travel tracker in localhost:3000.
+
+## Screenshot
+
+<img width="1792" alt="img" src="https://github.com/Promo-13/Travel-Tracker/assets/160533725/cd1503c6-ab3b-48d1-a2f5-8098b1b69f79">
